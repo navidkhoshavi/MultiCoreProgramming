@@ -1,3 +1,3 @@
 # MultiCoreProgramming
 
-I've shared my C projects for Multi-core programming course in this repositore.
+I've shared some of my C projects for Multi-core programming course in this repository.
